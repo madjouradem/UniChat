@@ -1,0 +1,29 @@
+class AppRoute {
+  static const String login = '/login';
+  static const String conversation = '/conversation';
+  static const String ws = '/ws';
+  static const String home = '/home';
+  static const String createcontact = '/createcontact';
+  static const String createws = '/createws';
+  static const String channel = '/channel';
+  static const String chatroom = '/chatroom';
+  static const String groupchatroom = '/groupchatroom';
+  static const String createChannel = '/createChannel';
+  static const String moreInfoConv = '/moreInfoConv';
+  static const String veiwFiles = '/veiwFiles';
+  static const String groupmoreInfoConv = '/groupmoreInfoConv';
+  static const String groupveiwFiles = '/groupveiwFiles';
+  static const String showVideo = '/showVideo';
+  static const String addChanMember = '/addChanMember';
+  static const String editWS = '/editWS';
+  static const String editChannel = '/editChannel';
+  static const String imageViwer = '/imageViwer';
+  static const String downlodedFiles = '/downlodedFiles';
+  static const String library = '/library';
+  static const String folders = '/folders';
+  static const String addFolders = '/addFolders';
+  static const String editFolders = '/editFolders';
+  static const String files = '/files';
+  static const String addFiles = '/addFiles';
+  static const String editFiles = '/editFiles';
+}
